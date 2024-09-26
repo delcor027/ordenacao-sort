@@ -6,24 +6,26 @@ Este projeto implementa diferentes algoritmos de ordenação em Java, com foco n
 
 O projeto está organizado da seguinte forma:
 
+```bash
 src/
 ├── data/
-│   └── DataGenerator.java       # Gera diferentes tipos de conjuntos de dados
+│   └── DataGenerator.java           # Gera diferentes tipos de conjuntos de dados
 ├── sorting/
-│   ├── BubbleSort.java          # Implementação do Bubble Sort
-│   ├── HeapSort.java            # Implementação do Heap Sort
-│   ├── InsertionSort.java       # Implementação do Insertion Sort
-│   ├── MergeSort.java           # Implementação do Merge Sort
-│   ├── QuickSort.java           # Implementação do Quick Sort
-│   └── SelectionSort.java       # Implementação do Selection Sort
+│   ├── BubbleSort.java              # Implementação do Bubble Sort
+│   ├── HeapSort.java                # Implementação do Heap Sort
+│   ├── InsertionSort.java           # Implementação do Insertion Sort
+│   ├── MergeSort.java               # Implementação do Merge Sort
+│   ├── QuickSort.java               # Implementação do Quick Sort
+│   └── SelectionSort.java           # Implementação do Selection Sort
 ├── tests/
-│   ├── FileSorter.java          # Ordena arquivos de números e salva em diretórios
-│   └── TestSortingAlgorithms.java # Testa os algoritmos com diferentes tamanhos e tipos de dados
+│   ├── FileSorter.java              # Ordena arquivos de números e salva em diretórios
+│   └── TestSortingAlgorithms.java   # Testa os algoritmos com diferentes tamanhos e tipos de dados
 ├── utils/
-│   ├── CustomFormatter.java     # Formata logs para resultados de teste
-│   ├── FileHandler.java         # Lê e escreve arquivos de dados
-│   └── Timer.java               # Mede o tempo de execução de algoritmos
-└── Main.java                    # Interface principal para gerar dados, aplicar ordenação e salvar resultados
+│   ├── CustomFormatter.java         # Formata logs para resultados de teste
+│   ├── FileHandler.java             # Lê e escreve arquivos de dados
+│   └── Timer.java                   # Mede o tempo de execução de algoritmos
+└── Main.java                        # Interface principal para gerar dados, aplicar ordenação e salvar resultados
+```
 
 ## Funcionalidades
 
