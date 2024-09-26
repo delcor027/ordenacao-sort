@@ -1,0 +1,1180 @@
+set. 26, 2024 1:28:58 AM tests.TestSortingAlgorithms main
+INFO: Testando para 100000 elementos:
+set. 26, 2024 1:30:18 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 100000 elementos:
+set. 26, 2024 1:30:18 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Crescente sem Repetição): 1130 ms
+set. 26, 2024 1:30:18 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Decrescente sem Repetição): 2609 ms
+set. 26, 2024 1:30:18 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Aleatório sem Repetição): 9520 ms
+set. 26, 2024 1:30:18 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Crescente com Repetição): 1138 ms
+set. 26, 2024 1:30:18 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Decrescente com Repetição): 2494 ms
+set. 26, 2024 1:30:18 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Aleatório com Repetição): 9458 ms
+set. 26, 2024 1:30:18 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 1:30:18 AM tests.TestSortingAlgorithms main
+INFO: Testando para 160000 elementos:
+set. 26, 2024 1:33:41 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 160000 elementos:
+set. 26, 2024 1:33:41 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Crescente sem Repetição): 2906 ms
+set. 26, 2024 1:33:41 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Decrescente sem Repetição): 6281 ms
+set. 26, 2024 1:33:41 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Aleatório sem Repetição): 24615 ms
+set. 26, 2024 1:33:41 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Crescente com Repetição): 2894 ms
+set. 26, 2024 1:33:41 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Decrescente com Repetição): 6414 ms
+set. 26, 2024 1:33:41 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Aleatório com Repetição): 24691 ms
+set. 26, 2024 1:33:41 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 1:33:41 AM tests.TestSortingAlgorithms main
+INFO: Testando para 220000 elementos:
+set. 26, 2024 1:40:06 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 220000 elementos:
+set. 26, 2024 1:40:06 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Crescente sem Repetição): 5502 ms
+set. 26, 2024 1:40:06 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Decrescente sem Repetição): 11883 ms
+set. 26, 2024 1:40:06 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Aleatório sem Repetição): 46822 ms
+set. 26, 2024 1:40:06 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Crescente com Repetição): 5502 ms
+set. 26, 2024 1:40:06 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Decrescente com Repetição): 11851 ms
+set. 26, 2024 1:40:06 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Aleatório com Repetição): 46774 ms
+set. 26, 2024 1:40:06 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 1:40:06 AM tests.TestSortingAlgorithms main
+INFO: Testando para 280000 elementos:
+set. 26, 2024 1:50:30 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 280000 elementos:
+set. 26, 2024 1:50:30 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Crescente sem Repetição): 8840 ms
+set. 26, 2024 1:50:30 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Decrescente sem Repetição): 19226 ms
+set. 26, 2024 1:50:30 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Aleatório sem Repetição): 76050 ms
+set. 26, 2024 1:50:30 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Crescente com Repetição): 8874 ms
+set. 26, 2024 1:50:30 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Decrescente com Repetição): 19141 ms
+set. 26, 2024 1:50:30 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Aleatório com Repetição): 75808 ms
+set. 26, 2024 1:50:30 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 1:50:30 AM tests.TestSortingAlgorithms main
+INFO: Testando para 340000 elementos:
+set. 26, 2024 2:05:49 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 340000 elementos:
+set. 26, 2024 2:05:49 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Crescente sem Repetição): 13089 ms
+set. 26, 2024 2:05:49 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Decrescente sem Repetição): 28263 ms
+set. 26, 2024 2:05:49 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Aleatório sem Repetição): 111884 ms
+set. 26, 2024 2:05:49 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Crescente com Repetição): 13043 ms
+set. 26, 2024 2:05:49 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Decrescente com Repetição): 28241 ms
+set. 26, 2024 2:05:49 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Aleatório com Repetição): 111739 ms
+set. 26, 2024 2:05:49 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 2:05:49 AM tests.TestSortingAlgorithms main
+INFO: Testando para 400000 elementos:
+set. 26, 2024 2:27:01 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 400000 elementos:
+set. 26, 2024 2:27:01 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Crescente sem Repetição): 18077 ms
+set. 26, 2024 2:27:01 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Decrescente sem Repetição): 39170 ms
+set. 26, 2024 2:27:01 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Aleatório sem Repetição): 154709 ms
+set. 26, 2024 2:27:01 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Crescente com Repetição): 18084 ms
+set. 26, 2024 2:27:01 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Decrescente com Repetição): 39077 ms
+set. 26, 2024 2:27:01 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Aleatório com Repetição): 154634 ms
+set. 26, 2024 2:27:01 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 2:27:01 AM tests.TestSortingAlgorithms main
+INFO: Testando para 460000 elementos:
+set. 26, 2024 2:55:02 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 460000 elementos:
+set. 26, 2024 2:55:02 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Crescente sem Repetição): 23871 ms
+set. 26, 2024 2:55:02 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Decrescente sem Repetição): 51743 ms
+set. 26, 2024 2:55:02 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Aleatório sem Repetição): 204554 ms
+set. 26, 2024 2:55:02 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Crescente com Repetição): 23922 ms
+set. 26, 2024 2:55:02 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Decrescente com Repetição): 51737 ms
+set. 26, 2024 2:55:02 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Aleatório com Repetição): 204289 ms
+set. 26, 2024 2:55:02 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 2:55:02 AM tests.TestSortingAlgorithms main
+INFO: Testando para 520000 elementos:
+set. 26, 2024 3:30:52 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 520000 elementos:
+set. 26, 2024 3:30:52 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Crescente sem Repetição): 30535 ms
+set. 26, 2024 3:30:52 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Decrescente sem Repetição): 66017 ms
+set. 26, 2024 3:30:52 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Aleatório sem Repetição): 261197 ms
+set. 26, 2024 3:30:52 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Crescente com Repetição): 30578 ms
+set. 26, 2024 3:30:52 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Decrescente com Repetição): 66003 ms
+set. 26, 2024 3:30:52 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Aleatório com Repetição): 261113 ms
+set. 26, 2024 3:30:52 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 3:30:52 AM tests.TestSortingAlgorithms main
+INFO: Testando para 580000 elementos:
+set. 26, 2024 4:15:24 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 580000 elementos:
+set. 26, 2024 4:15:24 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Crescente sem Repetição): 37984 ms
+set. 26, 2024 4:15:24 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Decrescente sem Repetição): 82070 ms
+set. 26, 2024 4:15:24 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Aleatório sem Repetição): 324765 ms
+set. 26, 2024 4:15:24 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Crescente com Repetição): 37975 ms
+set. 26, 2024 4:15:24 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Decrescente com Repetição): 81904 ms
+set. 26, 2024 4:15:24 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Aleatório com Repetição): 325939 ms
+set. 26, 2024 4:15:24 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 4:15:24 AM tests.TestSortingAlgorithms main
+INFO: Testando para 640000 elementos:
+set. 26, 2024 5:09:28 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 640000 elementos:
+set. 26, 2024 5:09:28 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Crescente sem Repetição): 46123 ms
+set. 26, 2024 5:09:28 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Decrescente sem Repetição): 99654 ms
+set. 26, 2024 5:09:28 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Aleatório sem Repetição): 395079 ms
+set. 26, 2024 5:09:28 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Crescente com Repetição): 46113 ms
+set. 26, 2024 5:09:28 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Decrescente com Repetição): 99612 ms
+set. 26, 2024 5:09:28 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Aleatório com Repetição): 394533 ms
+set. 26, 2024 5:09:28 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 5:09:28 AM tests.TestSortingAlgorithms main
+INFO: Testando para 700000 elementos:
+set. 26, 2024 6:14:07 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 700000 elementos:
+set. 26, 2024 6:14:07 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Crescente sem Repetição): 55206 ms
+set. 26, 2024 6:14:07 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Decrescente sem Repetição): 119190 ms
+set. 26, 2024 6:14:07 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Aleatório sem Repetição): 471911 ms
+set. 26, 2024 6:14:07 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Crescente com Repetição): 55153 ms
+set. 26, 2024 6:14:07 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Decrescente com Repetição): 119143 ms
+set. 26, 2024 6:14:07 AM tests.TestSortingAlgorithms main
+INFO: Bubble Sort (Aleatório com Repetição): 472055 ms
+set. 26, 2024 6:14:07 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 8:12:31 AM tests.TestSortingAlgorithms main
+INFO: Testando para 100000 elementos:
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 100000 elementos:
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Crescente sem Repetição): 6 ms
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Decrescente sem Repetição): 5 ms
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Aleatório sem Repetição): 8 ms
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Crescente com Repetição): 5 ms
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Decrescente com Repetição): 5 ms
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Aleatório com Repetição): 7 ms
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: Testando para 160000 elementos:
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 160000 elementos:
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Crescente sem Repetição): 8 ms
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Decrescente sem Repetição): 8 ms
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Aleatório sem Repetição): 14 ms
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Crescente com Repetição): 9 ms
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Decrescente com Repetição): 8 ms
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Aleatório com Repetição): 12 ms
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: Testando para 220000 elementos:
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 220000 elementos:
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Crescente sem Repetição): 11 ms
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Decrescente sem Repetição): 12 ms
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Aleatório sem Repetição): 21 ms
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Crescente com Repetição): 12 ms
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Decrescente com Repetição): 12 ms
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Aleatório com Repetição): 17 ms
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 8:12:32 AM tests.TestSortingAlgorithms main
+INFO: Testando para 280000 elementos:
+set. 26, 2024 8:12:33 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 280000 elementos:
+set. 26, 2024 8:12:33 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Crescente sem Repetição): 15 ms
+set. 26, 2024 8:12:33 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Decrescente sem Repetição): 15 ms
+set. 26, 2024 8:12:33 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Aleatório sem Repetição): 28 ms
+set. 26, 2024 8:12:33 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Crescente com Repetição): 16 ms
+set. 26, 2024 8:12:33 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Decrescente com Repetição): 15 ms
+set. 26, 2024 8:12:33 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Aleatório com Repetição): 21 ms
+set. 26, 2024 8:12:33 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 8:12:33 AM tests.TestSortingAlgorithms main
+INFO: Testando para 340000 elementos:
+set. 26, 2024 8:12:33 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 340000 elementos:
+set. 26, 2024 8:12:34 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Crescente sem Repetição): 19 ms
+set. 26, 2024 8:12:34 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Decrescente sem Repetição): 19 ms
+set. 26, 2024 8:12:34 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Aleatório sem Repetição): 34 ms
+set. 26, 2024 8:12:34 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Crescente com Repetição): 20 ms
+set. 26, 2024 8:12:34 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Decrescente com Repetição): 19 ms
+set. 26, 2024 8:12:34 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Aleatório com Repetição): 28 ms
+set. 26, 2024 8:12:34 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 8:12:34 AM tests.TestSortingAlgorithms main
+INFO: Testando para 400000 elementos:
+set. 26, 2024 8:12:34 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 400000 elementos:
+set. 26, 2024 8:12:34 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Crescente sem Repetição): 22 ms
+set. 26, 2024 8:12:34 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Decrescente sem Repetição): 23 ms
+set. 26, 2024 8:12:34 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Aleatório sem Repetição): 41 ms
+set. 26, 2024 8:12:34 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Crescente com Repetição): 23 ms
+set. 26, 2024 8:12:34 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Decrescente com Repetição): 23 ms
+set. 26, 2024 8:12:34 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Aleatório com Repetição): 31 ms
+set. 26, 2024 8:12:34 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 8:12:34 AM tests.TestSortingAlgorithms main
+INFO: Testando para 460000 elementos:
+set. 26, 2024 8:12:36 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 460000 elementos:
+set. 26, 2024 8:12:36 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Crescente sem Repetição): 28 ms
+set. 26, 2024 8:12:36 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Decrescente sem Repetição): 26 ms
+set. 26, 2024 8:12:36 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Aleatório sem Repetição): 49 ms
+set. 26, 2024 8:12:36 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Crescente com Repetição): 28 ms
+set. 26, 2024 8:12:36 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Decrescente com Repetição): 27 ms
+set. 26, 2024 8:12:36 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Aleatório com Repetição): 39 ms
+set. 26, 2024 8:12:36 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 8:12:36 AM tests.TestSortingAlgorithms main
+INFO: Testando para 520000 elementos:
+set. 26, 2024 8:12:37 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 520000 elementos:
+set. 26, 2024 8:12:37 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Crescente sem Repetição): 29 ms
+set. 26, 2024 8:12:37 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Decrescente sem Repetição): 30 ms
+set. 26, 2024 8:12:37 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Aleatório sem Repetição): 56 ms
+set. 26, 2024 8:12:37 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Crescente com Repetição): 31 ms
+set. 26, 2024 8:12:37 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Decrescente com Repetição): 30 ms
+set. 26, 2024 8:12:37 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Aleatório com Repetição): 40 ms
+set. 26, 2024 8:12:37 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 8:12:37 AM tests.TestSortingAlgorithms main
+INFO: Testando para 580000 elementos:
+set. 26, 2024 8:12:38 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 580000 elementos:
+set. 26, 2024 8:12:38 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Crescente sem Repetição): 33 ms
+set. 26, 2024 8:12:38 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Decrescente sem Repetição): 34 ms
+set. 26, 2024 8:12:38 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Aleatório sem Repetição): 65 ms
+set. 26, 2024 8:12:38 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Crescente com Repetição): 36 ms
+set. 26, 2024 8:12:38 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Decrescente com Repetição): 34 ms
+set. 26, 2024 8:12:38 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Aleatório com Repetição): 46 ms
+set. 26, 2024 8:12:38 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 8:12:38 AM tests.TestSortingAlgorithms main
+INFO: Testando para 640000 elementos:
+set. 26, 2024 8:12:39 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 640000 elementos:
+set. 26, 2024 8:12:39 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Crescente sem Repetição): 39 ms
+set. 26, 2024 8:12:39 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Decrescente sem Repetição): 41 ms
+set. 26, 2024 8:12:39 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Aleatório sem Repetição): 70 ms
+set. 26, 2024 8:12:39 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Crescente com Repetição): 40 ms
+set. 26, 2024 8:12:39 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Decrescente com Repetição): 39 ms
+set. 26, 2024 8:12:39 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Aleatório com Repetição): 51 ms
+set. 26, 2024 8:12:39 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 8:12:39 AM tests.TestSortingAlgorithms main
+INFO: Testando para 700000 elementos:
+set. 26, 2024 8:12:41 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 700000 elementos:
+set. 26, 2024 8:12:41 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Crescente sem Repetição): 40 ms
+set. 26, 2024 8:12:41 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Decrescente sem Repetição): 41 ms
+set. 26, 2024 8:12:41 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Aleatório sem Repetição): 78 ms
+set. 26, 2024 8:12:41 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Crescente com Repetição): 43 ms
+set. 26, 2024 8:12:41 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Decrescente com Repetição): 42 ms
+set. 26, 2024 8:12:41 AM tests.TestSortingAlgorithms main
+INFO: Heap Sort (Aleatório com Repetição): 54 ms
+set. 26, 2024 8:12:41 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 8:13:46 AM tests.TestSortingAlgorithms main
+INFO: Testando para 100000 elementos:
+set. 26, 2024 8:14:02 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 100000 elementos:
+set. 26, 2024 8:14:02 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Crescente sem Repetição): 0 ms
+set. 26, 2024 8:14:02 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Decrescente sem Repetição): 2482 ms
+set. 26, 2024 8:14:02 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Aleatório sem Repetição): 747 ms
+set. 26, 2024 8:14:02 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Crescente com Repetição): 0 ms
+set. 26, 2024 8:14:02 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Decrescente com Repetição): 1510 ms
+set. 26, 2024 8:14:02 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Aleatório com Repetição): 751 ms
+set. 26, 2024 8:14:02 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 8:14:02 AM tests.TestSortingAlgorithms main
+INFO: Testando para 160000 elementos:
+set. 26, 2024 8:14:38 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 160000 elementos:
+set. 26, 2024 8:14:38 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Crescente sem Repetição): 0 ms
+set. 26, 2024 8:14:38 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Decrescente sem Repetição): 3896 ms
+set. 26, 2024 8:14:38 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Aleatório sem Repetição): 1959 ms
+set. 26, 2024 8:14:38 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Crescente com Repetição): 0 ms
+set. 26, 2024 8:14:38 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Decrescente com Repetição): 3892 ms
+set. 26, 2024 8:14:38 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Aleatório com Repetição): 1948 ms
+set. 26, 2024 8:14:38 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 8:14:38 AM tests.TestSortingAlgorithms main
+INFO: Testando para 220000 elementos:
+set. 26, 2024 8:15:44 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 220000 elementos:
+set. 26, 2024 8:15:44 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Crescente sem Repetição): 0 ms
+set. 26, 2024 8:15:44 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Decrescente sem Repetição): 7394 ms
+set. 26, 2024 8:15:44 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Aleatório sem Repetição): 3661 ms
+set. 26, 2024 8:15:44 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Crescente com Repetição): 0 ms
+set. 26, 2024 8:15:44 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Decrescente com Repetição): 7478 ms
+set. 26, 2024 8:15:44 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Aleatório com Repetição): 3683 ms
+set. 26, 2024 8:15:44 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 8:15:44 AM tests.TestSortingAlgorithms main
+INFO: Testando para 280000 elementos:
+set. 26, 2024 8:17:32 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 280000 elementos:
+set. 26, 2024 8:17:32 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Crescente sem Repetição): 0 ms
+set. 26, 2024 8:17:32 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Decrescente sem Repetição): 12025 ms
+set. 26, 2024 8:17:32 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Aleatório sem Repetição): 5973 ms
+set. 26, 2024 8:17:32 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Crescente com Repetição): 0 ms
+set. 26, 2024 8:17:32 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Decrescente com Repetição): 11925 ms
+set. 26, 2024 8:17:32 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Aleatório com Repetição): 5906 ms
+set. 26, 2024 8:17:32 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 8:17:32 AM tests.TestSortingAlgorithms main
+INFO: Testando para 340000 elementos:
+set. 26, 2024 8:20:10 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 340000 elementos:
+set. 26, 2024 8:20:10 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Crescente sem Repetição): 0 ms
+set. 26, 2024 8:20:10 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Decrescente sem Repetição): 17523 ms
+set. 26, 2024 8:20:10 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Aleatório sem Repetição): 8757 ms
+set. 26, 2024 8:20:10 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Crescente com Repetição): 0 ms
+set. 26, 2024 8:20:10 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Decrescente com Repetição): 17520 ms
+set. 26, 2024 8:20:10 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Aleatório com Repetição): 8683 ms
+set. 26, 2024 8:20:10 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 8:20:10 AM tests.TestSortingAlgorithms main
+INFO: Testando para 400000 elementos:
+set. 26, 2024 8:23:48 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 400000 elementos:
+set. 26, 2024 8:23:48 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Crescente sem Repetição): 0 ms
+set. 26, 2024 8:23:48 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Decrescente sem Repetição): 24326 ms
+set. 26, 2024 8:23:48 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Aleatório sem Repetição): 12120 ms
+set. 26, 2024 8:23:48 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Crescente com Repetição): 0 ms
+set. 26, 2024 8:23:48 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Decrescente com Repetição): 24239 ms
+set. 26, 2024 8:23:48 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Aleatório com Repetição): 11978 ms
+set. 26, 2024 8:23:48 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 8:23:48 AM tests.TestSortingAlgorithms main
+INFO: Testando para 460000 elementos:
+set. 26, 2024 8:28:37 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 460000 elementos:
+set. 26, 2024 8:28:37 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Crescente sem Repetição): 0 ms
+set. 26, 2024 8:28:37 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Decrescente sem Repetição): 32127 ms
+set. 26, 2024 8:28:37 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Aleatório sem Repetição): 16032 ms
+set. 26, 2024 8:28:37 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Crescente com Repetição): 0 ms
+set. 26, 2024 8:28:37 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Decrescente com Repetição): 32123 ms
+set. 26, 2024 8:28:37 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Aleatório com Repetição): 15893 ms
+set. 26, 2024 8:28:37 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 8:28:37 AM tests.TestSortingAlgorithms main
+INFO: Testando para 520000 elementos:
+set. 26, 2024 8:34:47 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 520000 elementos:
+set. 26, 2024 8:34:47 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Crescente sem Repetição): 0 ms
+set. 26, 2024 8:34:47 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Decrescente sem Repetição): 41117 ms
+set. 26, 2024 8:34:47 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Aleatório sem Repetição): 20498 ms
+set. 26, 2024 8:34:47 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Crescente com Repetição): 0 ms
+set. 26, 2024 8:34:47 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Decrescente com Repetição): 41069 ms
+set. 26, 2024 8:34:47 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Aleatório com Repetição): 20300 ms
+set. 26, 2024 8:34:47 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 8:34:47 AM tests.TestSortingAlgorithms main
+INFO: Testando para 580000 elementos:
+set. 26, 2024 8:42:26 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 580000 elementos:
+set. 26, 2024 8:42:26 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Crescente sem Repetição): 0 ms
+set. 26, 2024 8:42:26 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Decrescente sem Repetição): 51044 ms
+set. 26, 2024 8:42:26 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Aleatório sem Repetição): 25468 ms
+set. 26, 2024 8:42:26 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Crescente com Repetição): 0 ms
+set. 26, 2024 8:42:26 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Decrescente com Repetição): 51152 ms
+set. 26, 2024 8:42:26 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Aleatório com Repetição): 25249 ms
+set. 26, 2024 8:42:26 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 8:42:26 AM tests.TestSortingAlgorithms main
+INFO: Testando para 640000 elementos:
+set. 26, 2024 8:51:45 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 640000 elementos:
+set. 26, 2024 8:51:45 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Crescente sem Repetição): 0 ms
+set. 26, 2024 8:51:45 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Decrescente sem Repetição): 62119 ms
+set. 26, 2024 8:51:45 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Aleatório sem Repetição): 31018 ms
+set. 26, 2024 8:51:45 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Crescente com Repetição): 0 ms
+set. 26, 2024 8:51:45 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Decrescente com Repetição): 62224 ms
+set. 26, 2024 8:51:45 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Aleatório com Repetição): 30768 ms
+set. 26, 2024 8:51:45 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 8:51:45 AM tests.TestSortingAlgorithms main
+INFO: Testando para 700000 elementos:
+set. 26, 2024 9:02:54 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 700000 elementos:
+set. 26, 2024 9:02:54 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Crescente sem Repetição): 0 ms
+set. 26, 2024 9:02:54 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Decrescente sem Repetição): 74414 ms
+set. 26, 2024 9:02:54 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Aleatório sem Repetição): 37184 ms
+set. 26, 2024 9:02:54 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Crescente com Repetição): 0 ms
+set. 26, 2024 9:02:54 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Decrescente com Repetição): 74608 ms
+set. 26, 2024 9:02:54 AM tests.TestSortingAlgorithms main
+INFO: Insertion Sort (Aleatório com Repetição): 36761 ms
+set. 26, 2024 9:02:54 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 9:08:32 AM tests.TestSortingAlgorithms main
+INFO: Testando para 100000 elementos:
+set. 26, 2024 9:08:32 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 100000 elementos:
+set. 26, 2024 9:08:32 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente sem Repetição): 7 ms
+set. 26, 2024 9:08:32 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente sem Repetição): 10 ms
+set. 26, 2024 9:08:32 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório sem Repetição): 12 ms
+set. 26, 2024 9:08:32 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente com Repetição): 4 ms
+set. 26, 2024 9:08:32 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente com Repetição): 6 ms
+set. 26, 2024 9:08:32 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório com Repetição): 9 ms
+set. 26, 2024 9:08:32 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 9:08:32 AM tests.TestSortingAlgorithms main
+INFO: Testando para 160000 elementos:
+set. 26, 2024 9:08:32 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 160000 elementos:
+set. 26, 2024 9:08:32 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente sem Repetição): 7 ms
+set. 26, 2024 9:08:32 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente sem Repetição): 11 ms
+set. 26, 2024 9:08:32 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório sem Repetição): 21 ms
+set. 26, 2024 9:08:32 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente com Repetição): 7 ms
+set. 26, 2024 9:08:32 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente com Repetição): 10 ms
+set. 26, 2024 9:08:32 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório com Repetição): 16 ms
+set. 26, 2024 9:08:32 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 9:08:32 AM tests.TestSortingAlgorithms main
+INFO: Testando para 220000 elementos:
+set. 26, 2024 9:08:33 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 220000 elementos:
+set. 26, 2024 9:08:33 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente sem Repetição): 7 ms
+set. 26, 2024 9:08:33 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente sem Repetição): 12 ms
+set. 26, 2024 9:08:33 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório sem Repetição): 30 ms
+set. 26, 2024 9:08:33 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente com Repetição): 7 ms
+set. 26, 2024 9:08:33 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente com Repetição): 14 ms
+set. 26, 2024 9:08:33 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório com Repetição): 20 ms
+set. 26, 2024 9:08:33 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 9:08:33 AM tests.TestSortingAlgorithms main
+INFO: Testando para 280000 elementos:
+set. 26, 2024 9:08:33 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 280000 elementos:
+set. 26, 2024 9:08:33 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente sem Repetição): 16 ms
+set. 26, 2024 9:08:33 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente sem Repetição): 22 ms
+set. 26, 2024 9:08:33 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório sem Repetição): 41 ms
+set. 26, 2024 9:08:33 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente com Repetição): 15 ms
+set. 26, 2024 9:08:33 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente com Repetição): 17 ms
+set. 26, 2024 9:08:33 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório com Repetição): 34 ms
+set. 26, 2024 9:08:33 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 9:08:33 AM tests.TestSortingAlgorithms main
+INFO: Testando para 340000 elementos:
+set. 26, 2024 9:08:34 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 340000 elementos:
+set. 26, 2024 9:08:34 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente sem Repetição): 11 ms
+set. 26, 2024 9:08:34 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente sem Repetição): 19 ms
+set. 26, 2024 9:08:34 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório sem Repetição): 50 ms
+set. 26, 2024 9:08:34 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente com Repetição): 12 ms
+set. 26, 2024 9:08:34 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente com Repetição): 20 ms
+set. 26, 2024 9:08:34 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório com Repetição): 31 ms
+set. 26, 2024 9:08:34 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 9:08:34 AM tests.TestSortingAlgorithms main
+INFO: Testando para 400000 elementos:
+set. 26, 2024 9:08:35 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 400000 elementos:
+set. 26, 2024 9:08:35 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente sem Repetição): 29 ms
+set. 26, 2024 9:08:35 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente sem Repetição): 37 ms
+set. 26, 2024 9:08:35 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório sem Repetição): 66 ms
+set. 26, 2024 9:08:35 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente com Repetição): 51 ms
+set. 26, 2024 9:08:35 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente com Repetição): 52 ms
+set. 26, 2024 9:08:35 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório com Repetição): 65 ms
+set. 26, 2024 9:08:35 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 9:08:35 AM tests.TestSortingAlgorithms main
+INFO: Testando para 460000 elementos:
+set. 26, 2024 9:08:36 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 460000 elementos:
+set. 26, 2024 9:08:36 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente sem Repetição): 16 ms
+set. 26, 2024 9:08:36 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente sem Repetição): 38 ms
+set. 26, 2024 9:08:36 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório sem Repetição): 58 ms
+set. 26, 2024 9:08:36 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente com Repetição): 15 ms
+set. 26, 2024 9:08:36 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente com Repetição): 33 ms
+set. 26, 2024 9:08:36 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório com Repetição): 43 ms
+set. 26, 2024 9:08:36 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 9:08:36 AM tests.TestSortingAlgorithms main
+INFO: Testando para 520000 elementos:
+set. 26, 2024 9:08:38 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 520000 elementos:
+set. 26, 2024 9:08:38 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente sem Repetição): 41 ms
+set. 26, 2024 9:08:38 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente sem Repetição): 47 ms
+set. 26, 2024 9:08:38 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório sem Repetição): 87 ms
+set. 26, 2024 9:08:38 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente com Repetição): 36 ms
+set. 26, 2024 9:08:38 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente com Repetição): 48 ms
+set. 26, 2024 9:08:38 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório com Repetição): 65 ms
+set. 26, 2024 9:08:38 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 9:08:38 AM tests.TestSortingAlgorithms main
+INFO: Testando para 580000 elementos:
+set. 26, 2024 9:08:39 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 580000 elementos:
+set. 26, 2024 9:08:39 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente sem Repetição): 20 ms
+set. 26, 2024 9:08:39 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente sem Repetição): 46 ms
+set. 26, 2024 9:08:39 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório sem Repetição): 75 ms
+set. 26, 2024 9:08:39 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente com Repetição): 20 ms
+set. 26, 2024 9:08:39 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente com Repetição): 35 ms
+set. 26, 2024 9:08:39 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório com Repetição): 55 ms
+set. 26, 2024 9:08:39 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 9:08:39 AM tests.TestSortingAlgorithms main
+INFO: Testando para 640000 elementos:
+set. 26, 2024 9:08:41 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 640000 elementos:
+set. 26, 2024 9:08:41 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente sem Repetição): 55 ms
+set. 26, 2024 9:08:41 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente sem Repetição): 58 ms
+set. 26, 2024 9:08:41 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório sem Repetição): 105 ms
+set. 26, 2024 9:08:41 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente com Repetição): 64 ms
+set. 26, 2024 9:08:41 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente com Repetição): 53 ms
+set. 26, 2024 9:08:41 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório com Repetição): 60 ms
+set. 26, 2024 9:08:41 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 9:08:41 AM tests.TestSortingAlgorithms main
+INFO: Testando para 700000 elementos:
+set. 26, 2024 9:08:42 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 700000 elementos:
+set. 26, 2024 9:08:42 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente sem Repetição): 26 ms
+set. 26, 2024 9:08:42 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente sem Repetição): 42 ms
+set. 26, 2024 9:08:42 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório sem Repetição): 98 ms
+set. 26, 2024 9:08:42 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente com Repetição): 25 ms
+set. 26, 2024 9:08:42 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente com Repetição): 44 ms
+set. 26, 2024 9:08:42 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório com Repetição): 78 ms
+set. 26, 2024 9:08:42 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 9:10:33 AM tests.TestSortingAlgorithms main
+INFO: Testando para 100000 elementos:
+set. 26, 2024 9:11:24 AM tests.TestSortingAlgorithms main
+INFO: Testando para 100000 elementos:
+set. 26, 2024 9:12:21 AM tests.TestSortingAlgorithms main
+INFO: Testando para 100000 elementos:
+set. 26, 2024 9:13:26 AM tests.TestSortingAlgorithms main
+INFO: Testando para 100000 elementos:
+set. 26, 2024 9:15:15 AM tests.TestSortingAlgorithms main
+INFO: Testando para 100000 elementos:
+set. 26, 2024 9:15:30 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 100000 elementos:
+set. 26, 2024 9:15:30 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente sem Repetição): 780 ms
+set. 26, 2024 9:15:30 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente sem Repetição): 667 ms
+set. 26, 2024 9:15:30 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório sem Repetição): 671 ms
+set. 26, 2024 9:15:30 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente com Repetição): 1010 ms
+set. 26, 2024 9:15:30 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente com Repetição): 973 ms
+set. 26, 2024 9:15:30 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório com Repetição): 1089 ms
+set. 26, 2024 9:15:30 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 9:15:30 AM tests.TestSortingAlgorithms main
+INFO: Testando para 160000 elementos:
+set. 26, 2024 9:16:09 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 160000 elementos:
+set. 26, 2024 9:16:09 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente sem Repetição): 1745 ms
+set. 26, 2024 9:16:09 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente sem Repetição): 1612 ms
+set. 26, 2024 9:16:09 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório sem Repetição): 1698 ms
+set. 26, 2024 9:16:09 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente com Repetição): 2559 ms
+set. 26, 2024 9:16:09 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente com Repetição): 2499 ms
+set. 26, 2024 9:16:09 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório com Repetição): 2763 ms
+set. 26, 2024 9:16:09 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 9:16:09 AM tests.TestSortingAlgorithms main
+INFO: Testando para 220000 elementos:
+set. 26, 2024 9:17:22 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 220000 elementos:
+set. 26, 2024 9:17:22 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente sem Repetição): 3303 ms
+set. 26, 2024 9:17:22 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente sem Repetição): 3072 ms
+set. 26, 2024 9:17:22 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório sem Repetição): 3188 ms
+set. 26, 2024 9:17:22 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente com Repetição): 4838 ms
+set. 26, 2024 9:17:22 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente com Repetição): 4713 ms
+set. 26, 2024 9:17:22 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório com Repetição): 5197 ms
+set. 26, 2024 9:17:22 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 9:17:22 AM tests.TestSortingAlgorithms main
+INFO: Testando para 280000 elementos:
+set. 26, 2024 9:19:20 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 280000 elementos:
+set. 26, 2024 9:19:20 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente sem Repetição): 4881 ms
+set. 26, 2024 9:19:20 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente sem Repetição): 5102 ms
+set. 26, 2024 9:19:20 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório sem Repetição): 5162 ms
+set. 26, 2024 9:19:20 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente com Repetição): 7834 ms
+set. 26, 2024 9:19:20 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente com Repetição): 7622 ms
+set. 26, 2024 9:19:20 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório com Repetição): 8436 ms
+set. 26, 2024 9:19:20 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 9:19:20 AM tests.TestSortingAlgorithms main
+INFO: Testando para 340000 elementos:
+set. 26, 2024 9:22:16 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 340000 elementos:
+set. 26, 2024 9:22:16 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente sem Repetição): 8521 ms
+set. 26, 2024 9:22:16 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente sem Repetição): 7328 ms
+set. 26, 2024 9:22:16 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório sem Repetição): 7632 ms
+set. 26, 2024 9:22:16 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente com Repetição): 11553 ms
+set. 26, 2024 9:22:16 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente com Repetição): 11212 ms
+set. 26, 2024 9:22:16 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório com Repetição): 12374 ms
+set. 26, 2024 9:22:16 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 9:22:16 AM tests.TestSortingAlgorithms main
+INFO: Testando para 400000 elementos:
+set. 26, 2024 9:26:22 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 400000 elementos:
+set. 26, 2024 9:26:22 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente sem Repetição): 12176 ms
+set. 26, 2024 9:26:22 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente sem Repetição): 10452 ms
+set. 26, 2024 9:26:22 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório sem Repetição): 10541 ms
+set. 26, 2024 9:26:22 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente com Repetição): 16022 ms
+set. 26, 2024 9:26:22 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente com Repetição): 15520 ms
+set. 26, 2024 9:26:22 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório com Repetição): 17119 ms
+set. 26, 2024 9:26:22 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 9:26:22 AM tests.TestSortingAlgorithms main
+INFO: Testando para 460000 elementos:
+set. 26, 2024 9:31:40 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 460000 elementos:
+set. 26, 2024 9:31:40 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente sem Repetição): 13958 ms
+set. 26, 2024 9:31:40 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente sem Repetição): 13628 ms
+set. 26, 2024 9:31:40 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório sem Repetição): 13939 ms
+set. 26, 2024 9:31:40 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente com Repetição): 21200 ms
+set. 26, 2024 9:31:40 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente com Repetição): 20497 ms
+set. 26, 2024 9:31:40 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório com Repetição): 22623 ms
+set. 26, 2024 9:31:40 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 9:31:40 AM tests.TestSortingAlgorithms main
+INFO: Testando para 520000 elementos:
+set. 26, 2024 9:38:17 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 520000 elementos:
+set. 26, 2024 9:38:17 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente sem Repetição): 15641 ms
+set. 26, 2024 9:38:17 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente sem Repetição): 17135 ms
+set. 26, 2024 9:38:17 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório sem Repetição): 17761 ms
+set. 26, 2024 9:38:17 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente com Repetição): 26993 ms
+set. 26, 2024 9:38:17 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente com Repetição): 26104 ms
+set. 26, 2024 9:38:17 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório com Repetição): 28810 ms
+set. 26, 2024 9:38:17 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 9:38:17 AM tests.TestSortingAlgorithms main
+INFO: Testando para 580000 elementos:
+set. 26, 2024 9:46:37 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 580000 elementos:
+set. 26, 2024 9:46:37 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente sem Repetição): 21279 ms
+set. 26, 2024 9:46:37 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente sem Repetição): 21007 ms
+set. 26, 2024 9:46:37 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório sem Repetição): 22060 ms
+set. 26, 2024 9:46:37 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente com Repetição): 33615 ms
+set. 26, 2024 9:46:37 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente com Repetição): 32501 ms
+set. 26, 2024 9:46:37 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório com Repetição): 35916 ms
+set. 26, 2024 9:46:37 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 9:46:37 AM tests.TestSortingAlgorithms main
+INFO: Testando para 640000 elementos:
+set. 26, 2024 9:56:50 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 640000 elementos:
+set. 26, 2024 9:56:50 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente sem Repetição): 27693 ms
+set. 26, 2024 9:56:50 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente sem Repetição): 25683 ms
+set. 26, 2024 9:56:50 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório sem Repetição): 26838 ms
+set. 26, 2024 9:56:50 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Crescente com Repetição): 40891 ms
+set. 26, 2024 9:56:50 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Decrescente com Repetição): 39532 ms
+set. 26, 2024 9:56:50 AM tests.TestSortingAlgorithms main
+INFO: Merge Sort (Aleatório com Repetição): 43569 ms
+set. 26, 2024 9:56:50 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 9:56:50 AM tests.TestSortingAlgorithms main
+INFO: Testando para 700000 elementos:
+set. 26, 2024 10:02:35 AM tests.TestSortingAlgorithms main
+INFO: Testando para 100000 elementos:
+set. 26, 2024 10:03:13 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 100000 elementos:
+set. 26, 2024 10:03:13 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Crescente sem Repetição): 1493 ms
+set. 26, 2024 10:03:13 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Decrescente sem Repetição): 2281 ms
+set. 26, 2024 10:03:13 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Aleatório sem Repetição): 1833 ms
+set. 26, 2024 10:03:13 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Crescente com Repetição): 1825 ms
+set. 26, 2024 10:03:13 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Decrescente com Repetição): 3230 ms
+set. 26, 2024 10:03:13 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Aleatório com Repetição): 1841 ms
+set. 26, 2024 10:03:13 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 10:03:13 AM tests.TestSortingAlgorithms main
+INFO: Testando para 160000 elementos:
+set. 26, 2024 10:04:52 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 160000 elementos:
+set. 26, 2024 10:04:52 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Crescente sem Repetição): 4717 ms
+set. 26, 2024 10:04:52 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Decrescente sem Repetição): 5513 ms
+set. 26, 2024 10:04:52 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Aleatório sem Repetição): 4784 ms
+set. 26, 2024 10:04:52 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Crescente com Repetição): 4730 ms
+set. 26, 2024 10:04:52 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Decrescente com Repetição): 8368 ms
+set. 26, 2024 10:04:52 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Aleatório com Repetição): 4724 ms
+set. 26, 2024 10:04:52 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 10:04:52 AM tests.TestSortingAlgorithms main
+INFO: Testando para 220000 elementos:
+set. 26, 2024 10:07:58 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 220000 elementos:
+set. 26, 2024 10:07:58 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Crescente sem Repetição): 8934 ms
+set. 26, 2024 10:07:58 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Decrescente sem Repetição): 10396 ms
+set. 26, 2024 10:07:58 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Aleatório sem Repetição): 8943 ms
+set. 26, 2024 10:07:58 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Crescente com Repetição): 8892 ms
+set. 26, 2024 10:07:58 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Decrescente com Repetição): 15927 ms
+set. 26, 2024 10:07:58 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Aleatório com Repetição): 8893 ms
+set. 26, 2024 10:07:58 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 10:07:58 AM tests.TestSortingAlgorithms main
+INFO: Testando para 280000 elementos:
+set. 26, 2024 10:12:56 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 280000 elementos:
+set. 26, 2024 10:12:56 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Crescente sem Repetição): 14232 ms
+set. 26, 2024 10:12:56 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Decrescente sem Repetição): 16666 ms
+set. 26, 2024 10:12:56 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Aleatório sem Repetição): 14271 ms
+set. 26, 2024 10:12:56 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Crescente com Repetição): 14263 ms
+set. 26, 2024 10:12:56 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Decrescente com Repetição): 25580 ms
+set. 26, 2024 10:12:56 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Aleatório com Repetição): 14263 ms
+set. 26, 2024 10:12:56 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 10:12:56 AM tests.TestSortingAlgorithms main
+INFO: Testando para 340000 elementos:
+set. 26, 2024 10:20:17 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 340000 elementos:
+set. 26, 2024 10:20:17 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Crescente sem Repetição): 21065 ms
+set. 26, 2024 10:20:17 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Decrescente sem Repetição): 24524 ms
+set. 26, 2024 10:20:17 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Aleatório sem Repetição): 21086 ms
+set. 26, 2024 10:20:17 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Crescente com Repetição): 21219 ms
+set. 26, 2024 10:20:17 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Decrescente com Repetição): 38092 ms
+set. 26, 2024 10:20:17 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Aleatório com Repetição): 21132 ms
+set. 26, 2024 10:20:17 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 10:20:17 AM tests.TestSortingAlgorithms main
+INFO: Testando para 400000 elementos:
+set. 26, 2024 10:30:37 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 400000 elementos:
+set. 26, 2024 10:30:37 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Crescente sem Repetição): 29694 ms
+set. 26, 2024 10:30:37 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Decrescente sem Repetição): 34825 ms
+set. 26, 2024 10:30:37 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Aleatório sem Repetição): 29800 ms
+set. 26, 2024 10:30:37 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Crescente com Repetição): 29447 ms
+set. 26, 2024 10:30:37 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Decrescente com Repetição): 52780 ms
+set. 26, 2024 10:30:37 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Aleatório com Repetição): 29734 ms
+set. 26, 2024 10:30:37 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 10:30:37 AM tests.TestSortingAlgorithms main
+INFO: Testando para 460000 elementos:
+set. 26, 2024 10:44:07 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 460000 elementos:
+set. 26, 2024 10:44:07 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Crescente sem Repetição): 38629 ms
+set. 26, 2024 10:44:07 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Decrescente sem Repetição): 45231 ms
+set. 26, 2024 10:44:07 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Aleatório sem Repetição): 38794 ms
+set. 26, 2024 10:44:07 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Crescente com Repetição): 38785 ms
+set. 26, 2024 10:44:07 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Decrescente com Repetição): 69782 ms
+set. 26, 2024 10:44:07 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Aleatório com Repetição): 38615 ms
+set. 26, 2024 10:44:07 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 10:44:07 AM tests.TestSortingAlgorithms main
+INFO: Testando para 520000 elementos:
+set. 26, 2024 11:01:15 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 520000 elementos:
+set. 26, 2024 11:01:15 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Crescente sem Repetição): 49123 ms
+set. 26, 2024 11:01:15 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Decrescente sem Repetição): 57274 ms
+set. 26, 2024 11:01:15 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Aleatório sem Repetição): 49199 ms
+set. 26, 2024 11:01:15 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Crescente com Repetição): 49139 ms
+set. 26, 2024 11:01:15 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Decrescente com Repetição): 88733 ms
+set. 26, 2024 11:01:15 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Aleatório com Repetição): 49196 ms
+set. 26, 2024 11:01:15 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 11:01:15 AM tests.TestSortingAlgorithms main
+INFO: Testando para 580000 elementos:
+set. 26, 2024 11:22:35 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 580000 elementos:
+set. 26, 2024 11:22:35 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Crescente sem Repetição): 61139 ms
+set. 26, 2024 11:22:35 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Decrescente sem Repetição): 71305 ms
+set. 26, 2024 11:22:35 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Aleatório sem Repetição): 61219 ms
+set. 26, 2024 11:22:35 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Crescente com Repetição): 61100 ms
+set. 26, 2024 11:22:35 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Decrescente com Repetição): 110438 ms
+set. 26, 2024 11:22:35 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Aleatório com Repetição): 61176 ms
+set. 26, 2024 11:22:35 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 11:22:35 AM tests.TestSortingAlgorithms main
+INFO: Testando para 640000 elementos:
+set. 26, 2024 11:48:32 AM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 640000 elementos:
+set. 26, 2024 11:48:32 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Crescente sem Repetição): 74400 ms
+set. 26, 2024 11:48:32 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Decrescente sem Repetição): 86768 ms
+set. 26, 2024 11:48:32 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Aleatório sem Repetição): 74486 ms
+set. 26, 2024 11:48:32 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Crescente com Repetição): 74385 ms
+set. 26, 2024 11:48:32 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Decrescente com Repetição): 134419 ms
+set. 26, 2024 11:48:32 AM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Aleatório com Repetição): 74431 ms
+set. 26, 2024 11:48:32 AM tests.TestSortingAlgorithms main
+INFO: 
+set. 26, 2024 11:48:32 AM tests.TestSortingAlgorithms main
+INFO: Testando para 700000 elementos:
+set. 26, 2024 12:19:34 PM tests.TestSortingAlgorithms main
+INFO: Médias de tempo para 700000 elementos:
+set. 26, 2024 12:19:34 PM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Crescente sem Repetição): 88830 ms
+set. 26, 2024 12:19:34 PM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Decrescente sem Repetição): 103656 ms
+set. 26, 2024 12:19:34 PM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Aleatório sem Repetição): 88952 ms
+set. 26, 2024 12:19:34 PM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Crescente com Repetição): 88779 ms
+set. 26, 2024 12:19:34 PM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Decrescente com Repetição): 160767 ms
+set. 26, 2024 12:19:34 PM tests.TestSortingAlgorithms main
+INFO: Selection Sort (Aleatório com Repetição): 89328 ms
+set. 26, 2024 12:19:34 PM tests.TestSortingAlgorithms main
+INFO: 
