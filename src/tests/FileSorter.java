@@ -7,7 +7,7 @@ import java.util.*;
 public class FileSorter {
 
     public static void main(String[] args) {
-        String inputFile = "data/input/10k.txt";  // Arquivo de entrada com os números
+        String inputFile = "data/input/30k.txt";  // Arquivo de entrada com os números
         String outputDirectory = "data/output/sorted/";  // Diretório de saída
 
         try {
